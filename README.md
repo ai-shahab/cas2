@@ -1,2 +1,5 @@
-# cas2
-CAS-2 is a visual language model built by the CAS team for abstract image generation, surreal composition, and prompt-based scene synthesis.
+<div align="center">
+  <picture>
+      <img src="figures/cas-logo.png" width="30%" alt="CAS-2: Fractal Surreal Vision">
+  </picture>
+</div>
