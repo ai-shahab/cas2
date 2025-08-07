@@ -11,3 +11,6 @@
 <div align="center" style="line-height: 1;">
   <a href="https://github.com/moonshotai/cas2/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-AI Shahab-f5de53?&color=f5de53"/></a>
 </div>
+<p align="center">
+<b>📰&nbsp;&nbsp;<a href="https://aishahab.github.io/cas2/">Tech Blog</a></b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <b>📄&nbsp;&nbsp;<a href="https://www.arxiv.org/abs/2507.20534">Full Report</a></b>
+</p>
