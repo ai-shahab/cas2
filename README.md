@@ -20,3 +20,7 @@
 CAS 2 is an independently developed generative AI model designed to transform poetic and surreal prompts into coherent, ultra-detailed visual scenes. CAS 2 bridges Persian aesthetics, impossible geometry, and cinematic realism — pushing the boundaries of open-source creative AGI.
 
 ### Key Features
+
+ - Surreal Scene Generation: CAS-2 excels at transforming abstract and poetic prompts into vivid, surreal visual compositions with intricate details.
+ - Fractal-Level Detail Synthesis: Produces images with multi-layered, fractal-like complexity, ensuring depth and coherence in every scene.
+ - Cinematic Visual Reasoning: Combines Persian aesthetic influences with cinematic lighting and physically impossible geometries for high-fidelity outputs.
