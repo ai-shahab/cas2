@@ -18,3 +18,5 @@
 ## 1. Model Introduction
 
 CAS 2 is an independently developed generative AI model designed to transform poetic and surreal prompts into coherent, ultra-detailed visual scenes. CAS 2 bridges Persian aesthetics, impossible geometry, and cinematic realism — pushing the boundaries of open-source creative AGI.
+
+### Key Features
